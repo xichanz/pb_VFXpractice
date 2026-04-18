@@ -16,6 +16,7 @@ Material:
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
   - _CADDTEXUVT_ON
+  - _CUSTOMDATADIS_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -25,6 +26,8 @@ Material:
   - _IFDISSOLVECOLOR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
+  - _SOFT_STING_ON
+  - _SOT_STING_A_ON
   - _VTOAR_ON
   - _VTOMASKAR_ON
   m_LightmapFlags: 4
@@ -322,19 +325,19 @@ Material:
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 1
-    - _soft_sting: 1
+    - _soft_sting: 0
     - _softback: 0
-    - _sot_sting_A: 1
+    - _sot_sting_A: 0
     m_Colors:
     - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 11.90452, g: 13.028544, b: 4.8549767, a: 1}
+    - _DIssloveColor: {r: 17.39413, g: 17.39413, b: 17.39413, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 9.082411, g: 9.082411, b: 9.082411, a: 1}
+    - _MainColor: {r: 1.5157167, g: 1.5157167, b: 1.5157167, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
