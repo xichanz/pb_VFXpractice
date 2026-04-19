@@ -285,7 +285,7 @@ Material:
     - _DIssloveColor: {r: 256, g: 256, b: 256, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
-    - _MainColor: {r: 11.984314, g: 11.984314, b: 11.984314, a: 1}
+    - _MainColor: {r: 34.29675, g: 2.7502115, b: 15.690891, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
