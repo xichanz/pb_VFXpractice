@@ -10099,7 +10099,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 0.14
-      minScalar: 0.57
+      minScalar: 0.41
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -12670,7 +12670,7 @@ ParticleSystem:
     inWorldSpace: 0
     multiplyDragByParticleSize: 1
     multiplyDragByParticleVelocity: 1
-    dampen: 0.28
+    dampen: 0.31
     drag:
       serializedVersion: 2
       minMaxState: 0
@@ -64003,7 +64003,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1272895923
 Transform:
   m_ObjectHideFlags: 0
@@ -64230,7 +64230,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 13.64
+      scalar: 13.19
       minScalar: 11.9
       maxCurve:
         serializedVersion: 2
@@ -64347,8 +64347,8 @@ ParticleSystem:
         m_NumAlphaKeys: 2
     startSize:
       serializedVersion: 2
-      minMaxState: 3
-      scalar: 0.38
+      minMaxState: 0
+      scalar: 0.2
       minScalar: 0.13
       maxCurve:
         serializedVersion: 2
@@ -64400,7 +64400,7 @@ ParticleSystem:
         m_RotationOrder: 4
     startSizeY:
       serializedVersion: 2
-      minMaxState: 3
+      minMaxState: 0
       scalar: 1
       minScalar: 1
       maxCurve:
@@ -64453,7 +64453,7 @@ ParticleSystem:
         m_RotationOrder: 4
     startSizeZ:
       serializedVersion: 2
-      minMaxState: 3
+      minMaxState: 0
       scalar: 1
       minScalar: 1
       maxCurve:
@@ -64672,7 +64672,7 @@ ParticleSystem:
     gravityModifier:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.48
+      scalar: 0.09
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -74307,7 +74307,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 20
+      scalar: 11.25
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -74426,7 +74426,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 0.01
-      minScalar: 0.04
+      minScalar: 0.01
       maxCurve:
         serializedVersion: 2
         m_Curve:
