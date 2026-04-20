@@ -15,6 +15,7 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
+  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _CUSTOMDATADIS_ON
   - _DISSOLVEAR_ON
@@ -325,15 +326,15 @@ Material:
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 1
-    - _soft_sting: 0
+    - _soft_sting: 1
     - _softback: 0
-    - _sot_sting_A: 0
+    - _sot_sting_A: 1
     m_Colors:
     - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 11.90452, g: 13.028544, b: 4.8549767, a: 0}
+    - _DIssloveColor: {r: 15.589079, g: 2.7207355, b: 7.495331, a: 0}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
