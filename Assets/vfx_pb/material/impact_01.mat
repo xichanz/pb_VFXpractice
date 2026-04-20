@@ -178,7 +178,7 @@ Material:
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 0.614
-    - _DIssloveSoft: 0.776
+    - _DIssloveSoft: 0.945
     - _DIssloveWide: 0.171
     - _DIssolve_rotat: 96
     - _DepthF: 0
@@ -326,9 +326,9 @@ Material:
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 1
-    - _soft_sting: 1
+    - _soft_sting: 0
     - _softback: 0
-    - _sot_sting_A: 1
+    - _sot_sting_A: 0
     m_Colors:
     - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
