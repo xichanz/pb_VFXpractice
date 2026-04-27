@@ -26,8 +26,6 @@ Material:
   - _IFDISSOLVECOLOR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
-  - _SOFT_STING_ON
-  - _SOT_STING_A_ON
   - _VTOAR_ON
   - _VTOMASKAR_ON
   m_LightmapFlags: 4

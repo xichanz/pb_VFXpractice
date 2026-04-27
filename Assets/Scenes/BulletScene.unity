@@ -19899,7 +19899,7 @@ GameObject:
   - component: {fileID: 649477697}
   - component: {fileID: 649477696}
   m_Layer: 0
-  m_Name: trailLight_01 (1)
+  m_Name: trailDark_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20078,7 +20078,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 3.01
+      scalar: 2.27
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -23960,7 +23960,7 @@ ParticleSystem:
     lifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.5
+      scalar: 0.41
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -29686,7 +29686,7 @@ GameObject:
   - component: {fileID: 715992738}
   - component: {fileID: 715992737}
   m_Layer: 0
-  m_Name: trailLight_01 (2)
+  m_Name: trailDotted_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33747,7 +33747,7 @@ ParticleSystem:
     lifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 0.42
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -33805,7 +33805,7 @@ ParticleSystem:
     worldSpace: 0
     dieWithParticles: 1
     sizeAffectsWidth: 1
-    sizeAffectsLifetime: 0
+    sizeAffectsLifetime: 1
     inheritParticleColor: 1
     generateLightingData: 0
     splitSubEmitterRibbons: 0
@@ -44425,7 +44425,7 @@ ParticleSystemRenderer:
   m_VertexStreams: 00010304
   m_UseCustomTrailVertexStreams: 0
   m_TrailVertexStreams: 00010304
-  m_Mesh: {fileID: 4711208715938537054, guid: a25c9dfc2c18dbc4784835a6b4799160, type: 3}
+  m_Mesh: {fileID: 4711208715938537054, guid: 219cbf9135730f6419e0ddc145e8b7e4, type: 3}
   m_Mesh1: {fileID: 0}
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
