@@ -251,7 +251,7 @@ Material:
     - _MainTex_Uspeed: 0
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
-    - _MainTex_rotat: 90
+    - _MainTex_rotat: 0
     - _MaintexC: 0
     - _MaintexCV: 0
     - _MaskAlphaRA: 1

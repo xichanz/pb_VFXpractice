@@ -157,7 +157,7 @@ Material:
     - _AddTexUVS: 0
     - _AddTexUspeed: 0
     - _AddTexVspeed: 0
-    - _AlphaAdd: 0
+    - _AlphaAdd: 1
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
@@ -215,7 +215,7 @@ Material:
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: 0
     - _DistortTex_Vspeed: 0
-    - _Dst: 10
+    - _Dst: 1
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
     - _Face: 1
@@ -284,7 +284,7 @@ Material:
     - _ParticleVAT: 0
     - _Pass: 0
     - _Reference: 0
-    - _Scr: 5
+    - _Scr: 1
     - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1

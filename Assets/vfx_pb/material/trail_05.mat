@@ -15,6 +15,7 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
+  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
@@ -247,7 +248,7 @@ Material:
     - _MainOffsetVC2: 1
     - _MainTexAC: 0
     - _MainTexUVS: 0
-    - _MainTex_Uspeed: -1.1
+    - _MainTex_Uspeed: -2.8
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
