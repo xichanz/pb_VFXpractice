@@ -82,8 +82,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: fb88a707d44d43340854981f6ed68039, type: 3}
+        m_Scale: {x: 1.39, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
@@ -157,7 +157,7 @@ Material:
     - _AddTexUVS: 0
     - _AddTexUspeed: 0
     - _AddTexVspeed: 0
-    - _AlphaAdd: 0
+    - _AlphaAdd: 1
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
@@ -215,7 +215,7 @@ Material:
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: 0
     - _DistortTex_Vspeed: 0
-    - _Dst: 10
+    - _Dst: 1
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
     - _Face: 1
@@ -247,7 +247,7 @@ Material:
     - _MainOffsetVC2: 1
     - _MainTexAC: 0
     - _MainTexUVS: 0
-    - _MainTex_Uspeed: 0
+    - _MainTex_Uspeed: -2.44
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
@@ -284,7 +284,7 @@ Material:
     - _ParticleVAT: 0
     - _Pass: 0
     - _Reference: 0
-    - _Scr: 5
+    - _Scr: 1
     - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
