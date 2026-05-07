@@ -106,6 +106,6 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DiamondColor: {r: 0.96990687, g: 0.9009434, b: 1, a: 1}
-    - _EmissionColor: {r: 23.523563, g: 27.83584, b: 29.508844, a: 1}
+    - _DiamondColor: {r: 0.8789462, g: 0.66180134, b: 0.9811321, a: 1}
+    - _EmissionColor: {r: 20.175167, g: 28.31344, b: 31.219967, a: 1}
   m_BuildTextureStacks: []
