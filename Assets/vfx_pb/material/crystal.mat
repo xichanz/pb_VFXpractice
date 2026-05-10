@@ -107,5 +107,5 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DiamondColor: {r: 0.8789462, g: 0.66180134, b: 0.9811321, a: 1}
-    - _EmissionColor: {r: 20.175167, g: 28.31344, b: 31.219967, a: 1}
+    - _EmissionColor: {r: 11.73859, g: 16.473711, b: 18.164825, a: 1}
   m_BuildTextureStacks: []
