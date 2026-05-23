@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: glow_01
+  m_Name: circle_01
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -22,6 +22,7 @@ Material:
   - _DISTORTMASKTEXAR_ON
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
+  - _IFADDTEX_ON
   - _IFDISSOLVECOLOR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
@@ -30,7 +31,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2900
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -38,7 +39,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AddTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 3a6ac64796c211041b2b21774722da5b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -82,7 +83,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7a1dd3313cacd724dad69acd29abe6af, type: 3}
+        m_Texture: {fileID: 2800000, guid: a26ca0ed4f279384fa5ea66030dbbc56, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -149,7 +150,7 @@ Material:
     m_Floats:
     - _AddTexAC: 0
     - _AddTexAR: 0
-    - _AddTexBlend: 0
+    - _AddTexBlend: 1
     - _AddTexBlendMode: 0
     - _AddTexC: 0
     - _AddTexCV: 0
@@ -223,7 +224,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _IfAddTex: 0
+    - _IfAddTex: 1
     - _IfAddTexAlpha: 0
     - _IfAddTexColor: 1
     - _IfCubemap: 0
@@ -326,7 +327,7 @@ Material:
     - _softback: 0
     - _sot_sting_A: 0
     m_Colors:
-    - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
+    - _AddTexColor: {r: 9.849582, g: 13.643418, b: 16.94838, a: 1}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -334,7 +335,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 2.6082377, g: 2.6082377, b: 2.6082377, a: 0.7176471}
+    - _MainColor: {r: 2, g: 2, b: 2, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
