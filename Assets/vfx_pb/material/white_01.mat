@@ -342,7 +342,7 @@ Material:
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _MainColor: {r: 0.015886439, g: 0.035764594, b: 0.16037738, a: 1}
+    - _MainColor: {r: 0.01568627, g: 0.06984903, b: 0.16078432, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
