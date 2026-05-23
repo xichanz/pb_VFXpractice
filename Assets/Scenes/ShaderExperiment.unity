@@ -297,6 +297,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: e5b2d706f645c9549a640a0e5f3a4210, type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e5b2d706f645c9549a640a0e5f3a4210, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 47d7484a4c78cd34582bc04cd9ac96e5, type: 2}
@@ -602,7 +606,7 @@ Transform:
   m_GameObject: {fileID: 1454204964}
   serializedVersion: 2
   m_LocalRotation: {x: -0.044912234, y: -0.4003796, z: 0.120147355, w: 0.90732783}
-  m_LocalPosition: {x: -2.1000001, y: 0.3, z: -1.7}
+  m_LocalPosition: {x: -1.8000001, y: 0.19999999, z: -1.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
