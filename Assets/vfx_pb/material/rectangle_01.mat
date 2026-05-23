@@ -269,7 +269,7 @@ Material:
     - _MaskPlusUspeed: 0
     - _MaskPlusVspeed: 0
     - _MaskTexUVS: 0
-    - _Mask_Uspeed: -1
+    - _Mask_Uspeed: -0.6
     - _Mask_Vspeed: 0
     - _Mask_rotat: 0
     - _Mask_scale: 1
@@ -336,7 +336,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 2.6082385, g: 2.6082385, b: 2.6082385, a: 1}
+    - _MainColor: {r: 1.3041192, g: 1.3041192, b: 1.3041192, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
