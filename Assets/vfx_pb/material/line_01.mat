@@ -77,7 +77,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DistortTex:
-        m_Texture: {fileID: 2800000, guid: 64effd2e28d6d0a41affac268d08943b, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 2, y: 0.5}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -204,7 +204,7 @@ Material:
     - _DissolveTexUVS2: 0
     - _DistortAddTex: 1
     - _DistortDisTex: 0
-    - _DistortFactor: 0.621
+    - _DistortFactor: 0
     - _DistortFactorC1: 1
     - _DistortFactorC2: 3
     - _DistortMainTex: 1
