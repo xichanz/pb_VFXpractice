@@ -25,6 +25,7 @@ Material:
   - _IFADDTEXCOLOR_ON
   - _IFDISSOLVECOLOR_ON
   - _MAINTEXCV_ON
+  - _MAINTEXC_ON
   - _MAINTEX_AR_ON
   - _MASKALPHARA_ON
   - _MASKCV_ON
@@ -255,7 +256,7 @@ Material:
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 1
     - _MainTex_rotat: 90
-    - _MaintexC: 0
+    - _MaintexC: 1
     - _MaintexCV: 1
     - _MaskAlphaRA: 1
     - _MaskC: 0

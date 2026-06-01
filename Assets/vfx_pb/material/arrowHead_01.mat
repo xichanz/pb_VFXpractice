@@ -250,7 +250,7 @@ Material:
     - _MainTex_Uspeed: 0
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
-    - _MainTex_rotat: 270
+    - _MainTex_rotat: 90
     - _MaintexC: 0
     - _MaintexCV: 0
     - _MaskAlphaRA: 1
@@ -334,7 +334,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 2.6082377, g: 2.6082377, b: 2.6082377, a: 1}
+    - _MainColor: {r: 5.216475, g: 5.216475, b: 5.216475, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
