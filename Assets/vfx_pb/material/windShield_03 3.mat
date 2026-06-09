@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: trail_17
+  m_Name: windShield_03 3
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -17,6 +17,8 @@ Material:
   m_InvalidKeywords:
   - _ALPHAADD_ON
   - _CADDTEXUVT_ON
+  - _CUSTOMDATADIS_ON
+  - _DEPTHFADEON_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -83,11 +85,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b4b6ca0a9807aa548934f7a43f9cd4c4, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: aeb26e5bf63f408418f7f16318c22d5b, type: 3}
+        m_Scale: {x: 3.09, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 446d2798b0a95fb44852baa8097735d2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
@@ -169,18 +171,18 @@ Material:
     - _Cullmode: 0
     - _CustomDistort: 0
     - _CustomVAT: 0
-    - _CustomdataDis: 0
+    - _CustomdataDis: 1
     - _CustomdataDisT: 0
     - _CustomdataMainTexUV: 0
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
-    - _DIssloveFactor: 0.5
-    - _DIssloveSoft: 0.5
+    - _DIssloveFactor: 0
+    - _DIssloveSoft: 0.392
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
     - _DepthF: 0
     - _DepthfadeFactor: 1
-    - _Depthfadeon: 0
+    - _Depthfadeon: 1
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
     - _DisTex_Vspeed: 0
@@ -248,7 +250,7 @@ Material:
     - _MainOffsetVC2: 1
     - _MainTexAC: 0
     - _MainTexUVS: 0
-    - _MainTex_Uspeed: -3.5
+    - _MainTex_Uspeed: -6
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
@@ -265,7 +267,7 @@ Material:
     - _MaskPlusC: 0
     - _MaskPlusCV: 0
     - _MaskPlusR: 0
-    - _MaskPlusUspeed: 0
+    - _MaskPlusUspeed: 1
     - _MaskPlusVspeed: 0
     - _MaskTexUVS: 0
     - _Mask_Uspeed: 0
@@ -331,11 +333,11 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DIssloveColor: {r: 0.60866934, g: 1.7676426, b: 1.3381139, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 5.9921575, g: 5.9921575, b: 5.9921575, a: 1}
+    - _MainColor: {r: 95.87452, g: 95.87452, b: 95.87452, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
