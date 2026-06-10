@@ -88864,7 +88864,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.12
+      scalar: 0.15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -93536,7 +93536,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -93873,7 +93873,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.51
+      scalar: 2.3
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -137888,7 +137888,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.5
+      scalar: 2.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -161996,7 +161996,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -162333,7 +162333,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.51
+      scalar: 2.3
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -347903,7 +347903,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -348240,7 +348240,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.51
+      scalar: 2.3
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -402021,7 +402021,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.5
+      scalar: 2.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -421120,8 +421120,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1281849331}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.039481502, w: 0.9992203}
-  m_LocalPosition: {x: 1.1, y: 0.60000014, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.08123665, w: 0.99669486}
+  m_LocalPosition: {x: 1.1, y: 0.44110656, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -421130,7 +421130,7 @@ Transform:
   - {fileID: 378213216}
   - {fileID: 1700974825}
   m_Father: {fileID: 883880434}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.525}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 9.319}
 --- !u!199 &1281849333
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -529186,7 +529186,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.5
+      scalar: 2.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -533737,7 +533737,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -534074,7 +534074,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.51
+      scalar: 2.3
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -627455,7 +627455,7 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.5
+      scalar: 2.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -641623,8 +641623,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2139454439}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.039481502, w: 0.9992203}
-  m_LocalPosition: {x: 1.1, y: 0.60000014, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.08123665, w: 0.99669486}
+  m_LocalPosition: {x: 1.1, y: 0.44110656, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -641633,7 +641633,7 @@ Transform:
   - {fileID: 516674683}
   - {fileID: 1261000192}
   m_Father: {fileID: 883880434}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.525}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 9.319}
 --- !u!199 &2139454441
 ParticleSystemRenderer:
   serializedVersion: 6
