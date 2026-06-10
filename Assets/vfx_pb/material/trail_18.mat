@@ -82,7 +82,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c2af5d6e3250830408c54b0132cedf2b, type: 3}
+        m_Texture: {fileID: 2800000, guid: b1dbdab5c8e552a4c8c073301b2cd20f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -247,7 +247,7 @@ Material:
     - _MainOffsetVC2: 1
     - _MainTexAC: 0
     - _MainTexUVS: 0
-    - _MainTex_Uspeed: -4
+    - _MainTex_Uspeed: -4.88
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
@@ -334,7 +334,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 5.9921575, g: 5.9921575, b: 5.9921575, a: 1}
+    - _MainColor: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
