@@ -93313,6 +93313,7 @@ GameObject:
   - component: {fileID: 289457145}
   - component: {fileID: 289457144}
   - component: {fileID: 289457143}
+  - component: {fileID: 289457147}
   m_Layer: 0
   m_Name: AnbyCamera
   m_TagString: MainCamera
@@ -93471,6 +93472,28 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &289457147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 289457141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67de8c1eb20c7d4c82fa1e7196ba82d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PostProcessMat: {fileID: 2100000, guid: 47d384487d732c44d8c06eddd7eb0bc2, type: 2}
+  StepFactor: 0
+  MainAlpha: 0
+  BlurFactor: 0
+  LineUVScale: 0
+  Chromatic: 0
+  Frequency: 0
+  Amplitude: 0
+  VignettePower: 1.639
+  VignetteScale: 1.5
 --- !u!1 &292997718
 GameObject:
   m_ObjectHideFlags: 0
