@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: glow_12
+  m_Name: glow_14
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -17,6 +17,7 @@ Material:
   m_InvalidKeywords:
   - _ALPHAADD_ON
   - _CADDTEXUVT_ON
+  - _DEPTHFADEON_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -83,7 +84,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7d3dc869106c8574e9d9843a342b9511, type: 3}
+        m_Texture: {fileID: 2800000, guid: dd4ef114f0611a246a3d2f29b867854d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -91,7 +92,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: aa44edddfe7770b419f5fe0b19eb7672, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -180,7 +181,7 @@ Material:
     - _DIssolve_rotat: 0
     - _DepthF: 0
     - _DepthfadeFactor: 1
-    - _Depthfadeon: 0
+    - _Depthfadeon: 1
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
     - _DisTex_Vspeed: 0
@@ -335,7 +336,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 16, g: 16, b: 16, a: 1}
+    - _MainColor: {r: 3.9533494, g: 3.9533494, b: 3.9533494, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
