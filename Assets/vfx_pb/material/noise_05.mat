@@ -157,7 +157,7 @@ Material:
     - _AddTexCV: 0
     - _AddTexRo: 0
     - _AddTexUVS: 0
-    - _AddTexUspeed: 0.1
+    - _AddTexUspeed: 0
     - _AddTexVspeed: 0
     - _AlphaAdd: 1
     - _BumpScale: 1
@@ -328,7 +328,7 @@ Material:
     - _softback: 0
     - _sot_sting_A: 0
     m_Colors:
-    - _AddTexColor: {r: 2.4694896, g: 3.1953042, b: 9.877958, a: 1}
+    - _AddTexColor: {r: 4.938978, g: 6.3906074, b: 19.755913, a: 1}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

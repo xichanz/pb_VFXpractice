@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: texture_03
+  m_Name: trail_19 1
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -15,8 +15,8 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
+  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
-  - _CUSTOMDATAMAINTEXUV_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -24,7 +24,6 @@ Material:
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
   - _IFDISSOLVECOLOR_ON
-  - _MAINTEXC_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
   - _VTOAR_ON
@@ -76,23 +75,23 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DistortTex:
-        m_Texture: {fileID: 2800000, guid: c83b2daa7e1abd845b3bd91d582ec098, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.5, y: 0.5}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 5ef8e0210d1c48b4687e9cc2a62c9cea, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: 81315b39888d22c4fbc656385a4717e6, type: 3}
+        m_Scale: {x: 5, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 2800000, guid: ce9fb330f0a54494d9badb1b54bc1c52, type: 3}
+        m_Texture: {fileID: 2800000, guid: deeac2ba9fadec04299c717d774efee7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -163,8 +162,8 @@ Material:
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
-    - _CenterU: 0.5
-    - _CenterV: 0.5
+    - _CenterU: 0
+    - _CenterV: 0
     - _Comparison: 8
     - _CubemapScale: 0
     - _Cullmode: 0
@@ -172,7 +171,7 @@ Material:
     - _CustomVAT: 0
     - _CustomdataDis: 0
     - _CustomdataDisT: 0
-    - _CustomdataMainTexUV: 1
+    - _CustomdataMainTexUV: 0
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 0.5
@@ -203,7 +202,7 @@ Material:
     - _DissolveTexUVS2: 0
     - _DistortAddTex: 1
     - _DistortDisTex: 0
-    - _DistortFactor: 0.03
+    - _DistortFactor: 0
     - _DistortFactorC1: 1
     - _DistortFactorC2: 3
     - _DistortMainTex: 1
@@ -216,7 +215,7 @@ Material:
     - _DistortRemap: 0
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: 0
-    - _DistortTex_Vspeed: 1.88
+    - _DistortTex_Vspeed: 0
     - _Dst: 10
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
@@ -250,10 +249,10 @@ Material:
     - _MainTexAC: 0
     - _MainTexUVS: 0
     - _MainTex_Uspeed: 0
-    - _MainTex_Vspeed: 0
+    - _MainTex_Vspeed: 1
     - _MainTex_ar: 0
-    - _MainTex_rotat: 0
-    - _MaintexC: 1
+    - _MainTex_rotat: 90
+    - _MaintexC: 0
     - _MaintexCV: 0
     - _MaskAlphaRA: 1
     - _MaskC: 0
@@ -271,7 +270,7 @@ Material:
     - _MaskTexUVS: 0
     - _Mask_Uspeed: 0
     - _Mask_Vspeed: 0
-    - _Mask_rotat: 90
+    - _Mask_rotat: 0
     - _Mask_scale: 1
     - _Metallic: 0
     - _Mode: 0
@@ -316,7 +315,7 @@ Material:
     - _VTOTex_Uspeed: 0
     - _VTOTex_Vspeed: 0
     - _ZWrite: 1
-    - _Ztest: 8
+    - _Ztest: 4
     - _Zwrite: 0
     - __dirty: 1
     - _fnl_power: 1
@@ -330,13 +329,13 @@ Material:
     m_Colors:
     - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
-    - _BackFaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 11.984314, g: 11.984314, b: 11.984314, a: 1}
+    - _MainColor: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
