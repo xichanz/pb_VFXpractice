@@ -16,6 +16,7 @@ Material:
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
   - _CADDTEXUVT_ON
+  - _CUSTOMDATADIS_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -62,9 +63,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: 395b3b0b8dcb9754c9f5d3242a538ae8, type: 3}
+        m_Scale: {x: 0.5, y: 1.1}
+        m_Offset: {x: -0.15, y: 0}
     - _DissloveTexPlus:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -168,15 +169,15 @@ Material:
     - _Cullmode: 0
     - _CustomDistort: 0
     - _CustomVAT: 0
-    - _CustomdataDis: 0
+    - _CustomdataDis: 1
     - _CustomdataDisT: 0
     - _CustomdataMainTexUV: 0
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
-    - _DIssloveFactor: 0.5
+    - _DIssloveFactor: 0
     - _DIssloveSoft: 0.5
     - _DIssloveWide: 0.1
-    - _DIssolve_rotat: 0
+    - _DIssolve_rotat: 27
     - _DepthF: 0
     - _DepthfadeFactor: 1
     - _Depthfadeon: 0
@@ -330,11 +331,11 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DIssloveColor: {r: 33.507847, g: 113.39687, b: 34.178005, a: 0}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 4, g: 4, b: 4, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
