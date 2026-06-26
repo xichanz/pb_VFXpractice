@@ -91,7 +91,7 @@ Material:
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: d5183a5bd5d0cbb48b1360d0f69069b1, type: 3}
         m_Scale: {x: 0.5, y: 1.26}
-        m_Offset: {x: 0.14, y: -1.18}
+        m_Offset: {x: 0.47, y: -1.38}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -189,7 +189,7 @@ Material:
     - _Depthfadeon: 0
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
-    - _DisTex_Vspeed: 0
+    - _DisTex_Vspeed: -0.2
     - _DissolveAR: 1
     - _DissolveC: 0
     - _DissolveCV: 0
@@ -337,7 +337,7 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 512, g: 512, b: 512, a: 1}
+    - _DIssloveColor: {r: 128, g: 128, b: 128, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

@@ -25,6 +25,7 @@ Material:
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
   - _IFDISSOLVECOLOR_ON
+  - _IFMASKPLUSTEX_ON
   - _MAINTEXCV_ON
   - _MAINTEXC_ON
   - _MASKALPHARA_ON
@@ -238,7 +239,7 @@ Material:
     - _IfFNLAlpha: 0
     - _IfFlowmap: 0
     - _IfMaskColor: 0
-    - _IfMaskPlusTex: 0
+    - _IfMaskPlusTex: 1
     - _IfNormalDistort: 0
     - _IfPara: 0
     - _IfStaticNormal: 0
