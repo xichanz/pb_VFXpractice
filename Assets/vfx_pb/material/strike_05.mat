@@ -15,6 +15,7 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
+  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
@@ -321,7 +322,7 @@ Material:
     - _fnl_sacle: 0
     - _qubaohedu: 0
     - _screenVTOon: 0
-    - _softFacotr: 1
+    - _softFacotr: 0
     - _soft_sting: 0
     - _softback: 0
     - _sot_sting_A: 0
