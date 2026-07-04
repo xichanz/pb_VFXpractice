@@ -318,8 +318,8 @@ Material:
     - _Ztest: 4
     - _Zwrite: 0
     - __dirty: 1
-    - _fnl_power: 1.71
-    - _fnl_sacle: 0.666
+    - _fnl_power: 2.6
+    - _fnl_sacle: 1
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 0
@@ -335,7 +335,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 2, g: 2, b: 2, a: 1}
+    - _MainColor: {r: 1.9999999, g: 1.9999999, b: 1.9999999, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 8, g: 8, b: 8, a: 1}
