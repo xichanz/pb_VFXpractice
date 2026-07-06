@@ -65,7 +65,7 @@ Material:
     - _DissloveTex:
         m_Texture: {fileID: 2800000, guid: 395b3b0b8dcb9754c9f5d3242a538ae8, type: 3}
         m_Scale: {x: 0.5, y: 1.1}
-        m_Offset: {x: -0.15, y: 0}
+        m_Offset: {x: -0.13, y: 0.04}
     - _DissloveTexPlus:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
