@@ -16,6 +16,7 @@ Material:
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
   - _CADDTEXUVT_ON
+  - _DEPTHFADEON_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -178,8 +179,8 @@ Material:
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
     - _DepthF: 0
-    - _DepthfadeFactor: 1
-    - _Depthfadeon: 0
+    - _DepthfadeFactor: 2.14
+    - _Depthfadeon: 1
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
     - _DisTex_Vspeed: 0
