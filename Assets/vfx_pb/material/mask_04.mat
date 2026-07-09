@@ -23,6 +23,7 @@ Material:
   - _DISTORTMASKTEXAR_ON
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
+  - _IFCUSTOMLIGHT_ON
   - _IFDISSOLVECOLOR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
@@ -99,8 +100,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: acf21c319fdff474db7e789c7125b20c, type: 3}
+        m_Scale: {x: 8, y: 4}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
@@ -228,7 +229,7 @@ Material:
     - _IfAddTexAlpha: 0
     - _IfAddTexColor: 1
     - _IfCubemap: 0
-    - _IfCustomLight: 0
+    - _IfCustomLight: 1
     - _IfDissolveColor: 1
     - _IfDissolveOffsetC: 0
     - _IfDissolvePlus: 0
@@ -274,7 +275,7 @@ Material:
     - _Mask_scale: 1
     - _Metallic: 0
     - _Mode: 0
-    - _NormalScale: 0
+    - _NormalScale: 1
     - _NormalTexC: 0
     - _NormalTexCV: 0
     - _NormalTex_Rotat: 0
@@ -335,7 +336,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 1}
+    - _MainColor: {r: 5.992157, g: 5.992157, b: 5.992157, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}

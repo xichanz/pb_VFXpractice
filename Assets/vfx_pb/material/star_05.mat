@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: rect_01
+  m_Name: star_05
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -82,7 +82,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9b8154f19ea0210478b0ae1adffd5108, type: 3}
+        m_Texture: {fileID: 2800000, guid: d9cfce966737f424e8049cfebe32db57, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -165,7 +165,7 @@ Material:
     - _CenterV: 0.5
     - _Comparison: 8
     - _CubemapScale: 0
-    - _Cullmode: 2
+    - _Cullmode: 0
     - _CustomDistort: 0
     - _CustomVAT: 0
     - _CustomdataDis: 0
@@ -285,7 +285,7 @@ Material:
     - _Pass: 0
     - _Reference: 0
     - _Scr: 5
-    - _ScreenAsMain: 1
+    - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -317,8 +317,8 @@ Material:
     - _Ztest: 4
     - _Zwrite: 0
     - __dirty: 1
-    - _fnl_power: 2.67
-    - _fnl_sacle: 0.278
+    - _fnl_power: 1
+    - _fnl_sacle: 0
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 0
@@ -334,8 +334,8 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 0.05490196}
+    - _MainColor: {r: 16, g: 16, b: 16, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
-    - _fnl_color: {r: 44.68557, g: 111.862785, b: 449.20752, a: 1}
+    - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
