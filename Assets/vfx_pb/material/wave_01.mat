@@ -182,8 +182,8 @@ Material:
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
     - _DepthF: 0
-    - _DepthfadeFactor: 1
-    - _Depthfadeon: 0
+    - _DepthfadeFactor: 5.9
+    - _Depthfadeon: 1
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
     - _DisTex_Vspeed: 0

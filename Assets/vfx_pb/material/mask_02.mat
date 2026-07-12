@@ -176,7 +176,7 @@ Material:
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 0.027
-    - _DIssloveSoft: 0.5
+    - _DIssloveSoft: 0.277
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
     - _DepthF: 0
