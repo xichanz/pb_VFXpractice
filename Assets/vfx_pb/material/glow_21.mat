@@ -90,7 +90,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 42245872c32ea634fbcc5db7ef8777ca, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -270,7 +270,7 @@ Material:
     - _Mask_Uspeed: 0
     - _Mask_Vspeed: 0
     - _Mask_rotat: 0
-    - _Mask_scale: 1
+    - _Mask_scale: 3.24
     - _Metallic: 0
     - _Mode: 0
     - _NormalScale: 0
