@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: trail_20
+  m_Name: ice_01
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -17,6 +17,7 @@ Material:
   m_InvalidKeywords:
   - _ALPHAADD_ON
   - _CADDTEXUVT_ON
+  - _CUSTOMDATADIS_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -24,6 +25,7 @@ Material:
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
   - _IFDISSOLVECOLOR_ON
+  - _MAINTEX_AR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
   - _VTOAR_ON
@@ -63,8 +65,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: c98b321d0d3b83c4ba6018f3af91013b, type: 3}
+        m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _DissloveTexPlus:
         m_Texture: {fileID: 0}
@@ -83,7 +85,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 3b316e1a3528a11489a73b5a2a261331, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9508d9bb42711444ba11637d1088edae, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -91,7 +93,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: c51d1c5d63758dc479190c0a11573555, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -169,12 +171,12 @@ Material:
     - _Cullmode: 0
     - _CustomDistort: 0
     - _CustomVAT: 0
-    - _CustomdataDis: 0
+    - _CustomdataDis: 1
     - _CustomdataDisT: 0
     - _CustomdataMainTexUV: 0
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
-    - _DIssloveFactor: 0.5
+    - _DIssloveFactor: 0
     - _DIssloveSoft: 0.5
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
@@ -248,9 +250,9 @@ Material:
     - _MainOffsetVC2: 1
     - _MainTexAC: 0
     - _MainTexUVS: 0
-    - _MainTex_Uspeed: -3.55
+    - _MainTex_Uspeed: 0
     - _MainTex_Vspeed: 0
-    - _MainTex_ar: 0
+    - _MainTex_ar: 1
     - _MainTex_rotat: 0
     - _MaintexC: 0
     - _MaintexCV: 0
@@ -335,7 +337,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 47.93726, g: 47.93726, b: 47.93726, a: 1}
+    - _MainColor: {r: 8, g: 8, b: 8, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
