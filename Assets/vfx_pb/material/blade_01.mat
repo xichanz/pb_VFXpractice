@@ -15,8 +15,8 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
-  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
+  - _CUSTOMDATADIS_ON
   - _CUSTOMDATAMAINTEXUV_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
@@ -67,7 +67,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 92d3d897b25449c46869979d32883c33, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTexPlus:
@@ -89,7 +89,7 @@ Material:
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 1bdc3dcbb6fa97648b8cd5d544874593, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: -1}
+        m_Offset: {x: 0, y: 0.51}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -162,7 +162,7 @@ Material:
     - _AddTexUVS: 0
     - _AddTexUspeed: 0
     - _AddTexVspeed: 0
-    - _AlphaAdd: 1
+    - _AlphaAdd: 0
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
@@ -170,16 +170,16 @@ Material:
     - _CenterV: 0.5
     - _Comparison: 8
     - _CubemapScale: 0
-    - _Cullmode: 0
+    - _Cullmode: 2
     - _CustomDistort: 0
     - _CustomVAT: 0
-    - _CustomdataDis: 0
+    - _CustomdataDis: 1
     - _CustomdataDisT: 0
     - _CustomdataMainTexUV: 1
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
-    - _DIssloveFactor: 0.5
-    - _DIssloveSoft: 0.5
+    - _DIssloveFactor: 0
+    - _DIssloveSoft: 0.305
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
     - _DepthF: 0
@@ -187,7 +187,7 @@ Material:
     - _Depthfadeon: 0
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
-    - _DisTex_Vspeed: 0
+    - _DisTex_Vspeed: -0.8
     - _DissolveAR: 1
     - _DissolveC: 0
     - _DissolveCV: 0
@@ -220,7 +220,7 @@ Material:
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: 0
     - _DistortTex_Vspeed: 0
-    - _Dst: 1
+    - _Dst: 10
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
     - _Face: 1
@@ -289,7 +289,7 @@ Material:
     - _ParticleVAT: 0
     - _Pass: 0
     - _Reference: 0
-    - _Scr: 1
+    - _Scr: 5
     - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -326,7 +326,7 @@ Material:
     - _fnl_sacle: 0
     - _qubaohedu: 0
     - _screenVTOon: 0
-    - _softFacotr: 1
+    - _softFacotr: 0
     - _soft_sting: 0
     - _softback: 0
     - _sot_sting_A: 0
@@ -335,7 +335,7 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DIssloveColor: {r: 128, g: 128, b: 128, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

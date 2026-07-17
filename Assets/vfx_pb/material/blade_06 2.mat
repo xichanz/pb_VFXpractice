@@ -68,8 +68,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTex:
-        m_Texture: {fileID: 2800000, guid: 06188c8669281884387c0afe3dc90944, type: 3}
-        m_Scale: {x: 0.1, y: 1}
+        m_Texture: {fileID: 2800000, guid: 7c3d579c1dc1ca7498e4d9ecad854941, type: 3}
+        m_Scale: {x: 0.1, y: -0.14}
         m_Offset: {x: 0, y: 0}
     - _DissloveTexPlus:
         m_Texture: {fileID: 0}
@@ -90,7 +90,7 @@ Material:
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: b227842080995c345b951bc7140cb6f4, type: 3}
         m_Scale: {x: 0.5, y: 1.26}
-        m_Offset: {x: 0.47, y: -1.81}
+        m_Offset: {x: 0.47, y: -1.52}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -180,7 +180,7 @@ Material:
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 1
-    - _DIssloveSoft: 0.5
+    - _DIssloveSoft: 0.056
     - _DIssloveWide: 0.002
     - _DIssolve_rotat: 90
     - _DepthF: 0
@@ -328,15 +328,15 @@ Material:
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 1
-    - _soft_sting: 1
+    - _soft_sting: 0
     - _softback: 0
-    - _sot_sting_A: 1
+    - _sot_sting_A: 0
     m_Colors:
     - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 0.37450984, g: 0.37450984, b: 0.37450984, a: 1}
+    - _DIssloveColor: {r: 766.99615, g: 766.99615, b: 766.99615, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

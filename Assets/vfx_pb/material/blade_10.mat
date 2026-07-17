@@ -15,7 +15,6 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
-  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _CUSTOMDATADIS_ON
   - _DISSOLVEAR_ON
@@ -25,8 +24,11 @@ Material:
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
   - _IFDISSOLVECOLOR_ON
+  - _MAINTEX_AR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
+  - _SOFT_STING_ON
+  - _SOT_STING_A_ON
   - _VTOAR_ON
   - _VTOMASKAR_ON
   m_LightmapFlags: 4
@@ -159,7 +161,7 @@ Material:
     - _AddTexUVS: 0
     - _AddTexUspeed: 0
     - _AddTexVspeed: 0
-    - _AlphaAdd: 1
+    - _AlphaAdd: 0
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
@@ -167,7 +169,7 @@ Material:
     - _CenterV: 0.5
     - _Comparison: 8
     - _CubemapScale: 0
-    - _Cullmode: 0
+    - _Cullmode: 2
     - _CustomDistort: 0
     - _CustomVAT: 0
     - _CustomdataDis: 1
@@ -176,8 +178,8 @@ Material:
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 0.315
-    - _DIssloveSoft: 0.057
-    - _DIssloveWide: 0.1
+    - _DIssloveSoft: 1
+    - _DIssloveWide: 0.144
     - _DIssolve_rotat: 0
     - _DepthF: 0
     - _DepthfadeFactor: 1
@@ -217,7 +219,7 @@ Material:
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: -2.18
     - _DistortTex_Vspeed: -0.18
-    - _Dst: 1
+    - _Dst: 10
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
     - _Face: 1
@@ -251,7 +253,7 @@ Material:
     - _MainTexUVS: 0
     - _MainTex_Uspeed: 0
     - _MainTex_Vspeed: 0
-    - _MainTex_ar: 0
+    - _MainTex_ar: 1
     - _MainTex_rotat: 163
     - _MaintexC: 0
     - _MaintexCV: 0
@@ -286,7 +288,7 @@ Material:
     - _ParticleVAT: 0
     - _Pass: 0
     - _Reference: 0
-    - _Scr: 1
+    - _Scr: 5
     - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -324,15 +326,15 @@ Material:
     - _qubaohedu: 0
     - _screenVTOon: 0
     - _softFacotr: 1
-    - _soft_sting: 0
+    - _soft_sting: 1
     - _softback: 0
-    - _sot_sting_A: 0
+    - _sot_sting_A: 1
     m_Colors:
     - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1023.99994, g: 810.55023, b: 265.6604, a: 0}
+    - _DIssloveColor: {r: 100.39215, g: 160.80644, b: 383.49805, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

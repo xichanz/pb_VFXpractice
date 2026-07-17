@@ -18,12 +18,14 @@ Material:
   - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _CUSTOMDATAMAINTEXUV_ON
+  - _DEPTHFADEON_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
   - _DISTORTMASKTEXAR_ON
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
+  - _IFADDTEX_ON
   - _IFDISSOLVECOLOR_ON
   - _MAINTEXCV_ON
   - _MAINTEXC_ON
@@ -42,7 +44,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AddTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 5f0bb29668ba7eb4e97b64d3c4894e92, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -78,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DistortTex:
-        m_Texture: {fileID: 2800000, guid: 8cf57399bff847246b5c5056478b8d48, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2b60736a252190341998976c72e1674d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -86,7 +88,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 958a3d3f0b1faae44bd6a26de966a7c2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 471334789143e574ab921f2fa95ea362, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -205,7 +207,7 @@ Material:
     - _DissolveTexUVS2: 0
     - _DistortAddTex: 1
     - _DistortDisTex: 0
-    - _DistortFactor: 0.27
+    - _DistortFactor: 0.543
     - _DistortFactorC1: 1
     - _DistortFactorC2: 3
     - _DistortMainTex: 1
@@ -217,8 +219,8 @@ Material:
     - _DistortNormalTex: 1
     - _DistortRemap: 0
     - _DistortTexAR: 1
-    - _DistortTex_Uspeed: 0
-    - _DistortTex_Vspeed: -1
+    - _DistortTex_Uspeed: 0.04
+    - _DistortTex_Vspeed: 0.46
     - _Dst: 1
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
@@ -227,7 +229,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _IfAddTex: 0
+    - _IfAddTex: 1
     - _IfAddTexAlpha: 0
     - _IfAddTexColor: 1
     - _IfCubemap: 0
@@ -330,7 +332,7 @@ Material:
     - _softback: 0
     - _sot_sting_A: 0
     m_Colors:
-    - _AddTexColor: {r: 0, g: 0, b: 0, a: 0}
+    - _AddTexColor: {r: 191.74904, g: 191.74904, b: 191.74904, a: 0}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -338,7 +340,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 11.984315, g: 11.984315, b: 11.984315, a: 1}
+    - _MainColor: {r: 95.87452, g: 95.87452, b: 95.87452, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
