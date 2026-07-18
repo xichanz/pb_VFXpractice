@@ -41,7 +41,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AddTex:
-        m_Texture: {fileID: 2800000, guid: d5687fc1b8c071d459743fe20a4c227c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8cb35cc0324b1b44bb49bf9e8166e9c0, type: 3}
         m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -85,7 +85,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4eac1cb391140424c8b08d2f00fb8502, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9eb5e91645803b0489c62989fc2da676, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -93,7 +93,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: b8433d12d4814cf4b880911e0c62cd97, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -152,7 +152,7 @@ Material:
     m_Floats:
     - _AddTexAC: 0
     - _AddTexAR: 0
-    - _AddTexBlend: 0.363
+    - _AddTexBlend: 1
     - _AddTexBlendMode: 0
     - _AddTexC: 0
     - _AddTexCV: 0
@@ -271,7 +271,7 @@ Material:
     - _MaskPlusVspeed: 0
     - _MaskTexUVS: 0
     - _Mask_Uspeed: 0
-    - _Mask_Vspeed: 0
+    - _Mask_Vspeed: 0.73
     - _Mask_rotat: 0
     - _Mask_scale: 1
     - _Metallic: 0
@@ -329,7 +329,7 @@ Material:
     - _softback: 0
     - _sot_sting_A: 0
     m_Colors:
-    - _AddTexColor: {r: 39.245285, g: 39.245285, b: 39.245285, a: 1}
+    - _AddTexColor: {r: 15.460751, g: 12.043651, b: 34.97608, a: 1}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -337,7 +337,7 @@ Material:
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 11.984315, g: 11.984315, b: 11.984315, a: 1}
+    - _MainColor: {r: 0.7490197, g: 0.7490197, b: 0.7490197, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}

@@ -91,21 +91,21 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 1
+    - _Metallic: 0.61
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ParallaxAmplitude: 11.01
+    - _ParallaxAmplitude: 13.4
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Steps: 9.55
-    - _Transparency: 0.569
+    - _Transparency: 0.73
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DiamondColor: {r: 0.8789462, g: 0.66180134, b: 0.9811321, a: 1}
-    - _EmissionColor: {r: 15.489159, g: 21.737186, b: 23.968626, a: 1}
+    - _EmissionColor: {r: 22.66519, g: 22.640156, b: 32.651108, a: 1}
   m_BuildTextureStacks: []

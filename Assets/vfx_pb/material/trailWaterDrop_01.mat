@@ -52,5 +52,5 @@ Material:
     - _MainTex_Uspeed: 0
     - _MainTex_rotat: 180
     m_Colors:
-    - _MainColor: {r: 7.999999, g: 7.999999, b: 7.999999, a: 1}
+    - _MainColor: {r: 15.999998, g: 15.999998, b: 15.999998, a: 1}
   m_BuildTextureStacks: []
