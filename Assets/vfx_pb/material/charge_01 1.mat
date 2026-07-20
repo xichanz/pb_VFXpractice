@@ -23,6 +23,7 @@ Material:
   - _DISTORTMASKTEXAR_ON
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
+  - _IFADDTEX_ON
   - _IFDISSOLVECOLOR_ON
   - _MAINTEXC_ON
   - _MASKALPHARA_ON
@@ -328,7 +329,7 @@ Material:
     - _softback: 0
     - _sot_sting_A: 0
     m_Colors:
-    - _AddTexColor: {r: 14.80096, g: 11.698781, b: 25.391672, a: 1}
+    - _AddTexColor: {r: 33.899876, g: 33.899876, b: 33.899876, a: 1}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
