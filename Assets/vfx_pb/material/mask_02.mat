@@ -15,9 +15,9 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
-  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _CUSTOMDATADIS_ON
+  - _DEPTHFADEON_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -25,6 +25,7 @@ Material:
   - _DISTORTTEXAR_ON
   - _IFADDTEXCOLOR_ON
   - _IFDISSOLVECOLOR_ON
+  - _MAINTEX_AR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
   - _VTOAR_ON
@@ -159,7 +160,7 @@ Material:
     - _AddTexUVS: 0
     - _AddTexUspeed: 0
     - _AddTexVspeed: 0
-    - _AlphaAdd: 1
+    - _AlphaAdd: 0
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
@@ -181,7 +182,7 @@ Material:
     - _DIssolve_rotat: 0
     - _DepthF: 0
     - _DepthfadeFactor: 1
-    - _Depthfadeon: 0
+    - _Depthfadeon: 1
     - _DetailNormalMapScale: 1
     - _DisTex_Uspeed: 0
     - _DisTex_Vspeed: -0.25
@@ -217,7 +218,7 @@ Material:
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: 0
     - _DistortTex_Vspeed: 0
-    - _Dst: 1
+    - _Dst: 10
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
     - _Face: 1
@@ -251,7 +252,7 @@ Material:
     - _MainTexUVS: 0
     - _MainTex_Uspeed: 0
     - _MainTex_Vspeed: 0
-    - _MainTex_ar: 0
+    - _MainTex_ar: 1
     - _MainTex_rotat: 90
     - _MaintexC: 0
     - _MaintexCV: 0
@@ -286,7 +287,7 @@ Material:
     - _ParticleVAT: 0
     - _Pass: 0
     - _Reference: 0
-    - _Scr: 1
+    - _Scr: 5
     - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -332,11 +333,11 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 0}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _MainColor: {r: 1.4980394, g: 1.4980394, b: 1.4980394, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}

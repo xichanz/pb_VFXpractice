@@ -53,5 +53,5 @@ Material:
     - _MainTex_Uspeed: -0.61
     - _Scr: 1
     m_Colors:
-    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 8, g: 8, b: 8, a: 1}
   m_BuildTextureStacks: []
