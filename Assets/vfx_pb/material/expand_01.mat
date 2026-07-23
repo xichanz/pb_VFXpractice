@@ -83,7 +83,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4a3467b3c2b46294b9fe930f47f7fbd3, type: 3}
+        m_Texture: {fileID: 2800000, guid: c3dbcf3aa6ce9a04ba87f013e1c85b65, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
@@ -322,7 +322,7 @@ Material:
     - _fnl_sacle: 0
     - _qubaohedu: 0
     - _screenVTOon: 0
-    - _softFacotr: 1
+    - _softFacotr: 0
     - _soft_sting: 0
     - _softback: 0
     - _sot_sting_A: 0
