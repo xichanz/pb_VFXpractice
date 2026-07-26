@@ -16,6 +16,7 @@ Material:
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
   - _CADDTEXUVT_ON
+  - _CUSTOMDATAMAINTEXUV_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -85,15 +86,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b1c8674b2feab764c8ba1a6aa96f0731, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: 3b48d91358807d0499daf6930d3bbae9, type: 3}
+        m_Scale: {x: 2, y: 1}
         m_Offset: {x: 0, y: 0.53}
     - _MaskPlusTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 51a86cd76812d7640987f50a1fecc889, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 2800000, guid: 73bc00c1dd870344da982321b5b69d07, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0.36}
     - _MetallicGlossMap:
@@ -168,7 +169,7 @@ Material:
     - _CenterV: 0.5
     - _Comparison: 8
     - _CubemapScale: 0
-    - _Cullmode: 0
+    - _Cullmode: 2
     - _CustomDistort: 0
     - _CustomVAT: 0
     - _CustomdataDis: 0
@@ -204,7 +205,7 @@ Material:
     - _DissolveTexUVS2: 0
     - _DistortAddTex: 1
     - _DistortDisTex: 0
-    - _DistortFactor: 0.174
+    - _DistortFactor: 0.04
     - _DistortFactorC1: 1
     - _DistortFactorC2: 3
     - _DistortMainTex: 1
@@ -216,8 +217,8 @@ Material:
     - _DistortNormalTex: 1
     - _DistortRemap: 0
     - _DistortTexAR: 1
-    - _DistortTex_Uspeed: 0
-    - _DistortTex_Vspeed: -0.41
+    - _DistortTex_Uspeed: 1
+    - _DistortTex_Vspeed: 1
     - _Dst: 10
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
