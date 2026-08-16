@@ -151,14 +151,14 @@ Material:
     m_Floats:
     - _AddTexAC: 0
     - _AddTexAR: 0
-    - _AddTexBlend: 0.092
+    - _AddTexBlend: 0.136
     - _AddTexBlendMode: 0
     - _AddTexC: 0
     - _AddTexCV: 0
     - _AddTexRo: 0
     - _AddTexUVS: 0
     - _AddTexUspeed: 0.1
-    - _AddTexVspeed: -0.2
+    - _AddTexVspeed: -0.1
     - _AlphaAdd: 0
     - _BumpScale: 1
     - _CAddTexUV: 0
@@ -176,7 +176,7 @@ Material:
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 0
-    - _DIssloveSoft: 0.025
+    - _DIssloveSoft: 0
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
     - _DepthF: 0
@@ -203,7 +203,7 @@ Material:
     - _DissolveTexUVS2: 0
     - _DistortAddTex: 1
     - _DistortDisTex: 1
-    - _DistortFactor: 0.269
+    - _DistortFactor: 0.01
     - _DistortFactorC1: 1
     - _DistortFactorC2: 3
     - _DistortMainTex: 1
