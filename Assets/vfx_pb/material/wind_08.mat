@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: glow_02
+  m_Name: wind_08
   m_Shader: {fileID: 4800000, guid: 446de4ba36021554a94eb3e445fa294c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -15,8 +15,8 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
-  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
+  - _CUSTOMDATADIS_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
   - _DISTORTADDTEX_ON
@@ -63,7 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ec1e58107536bf542bd13525f90cc762, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissloveTexPlus:
@@ -83,8 +83,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9fe934a596246fe46a99ff420baec751, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: d1a9e0afc1bfc20418d8b7aa0f471d82, type: 3}
+        m_Scale: {x: 2, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
@@ -158,7 +158,7 @@ Material:
     - _AddTexUVS: 0
     - _AddTexUspeed: 0
     - _AddTexVspeed: 0
-    - _AlphaAdd: 1
+    - _AlphaAdd: 0
     - _BumpScale: 1
     - _CAddTexUV: 0
     - _CAddTexUVT: 1
@@ -166,15 +166,15 @@ Material:
     - _CenterV: 0.5
     - _Comparison: 8
     - _CubemapScale: 0
-    - _Cullmode: 0
+    - _Cullmode: 2
     - _CustomDistort: 0
     - _CustomVAT: 0
-    - _CustomdataDis: 0
+    - _CustomdataDis: 1
     - _CustomdataDisT: 0
     - _CustomdataMainTexUV: 0
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
-    - _DIssloveFactor: 0.5
+    - _DIssloveFactor: 0
     - _DIssloveSoft: 0.5
     - _DIssloveWide: 0.1
     - _DIssolve_rotat: 0
@@ -182,7 +182,7 @@ Material:
     - _DepthfadeFactor: 1
     - _Depthfadeon: 0
     - _DetailNormalMapScale: 1
-    - _DisTex_Uspeed: 0
+    - _DisTex_Uspeed: 0.1
     - _DisTex_Vspeed: 0
     - _DissolveAR: 1
     - _DissolveC: 0
@@ -216,7 +216,7 @@ Material:
     - _DistortTexAR: 1
     - _DistortTex_Uspeed: 0
     - _DistortTex_Vspeed: 0
-    - _Dst: 1
+    - _Dst: 10
     - _DstBlend: 0
     - _FNLfanxiangkaiguan: 0
     - _Face: 1
@@ -248,7 +248,7 @@ Material:
     - _MainOffsetVC2: 1
     - _MainTexAC: 0
     - _MainTexUVS: 0
-    - _MainTex_Uspeed: 0
+    - _MainTex_Uspeed: 1
     - _MainTex_Vspeed: 0
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
@@ -285,7 +285,7 @@ Material:
     - _ParticleVAT: 0
     - _Pass: 0
     - _Reference: 0
-    - _Scr: 1
+    - _Scr: 5
     - _ScreenAsMain: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -331,11 +331,11 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DIssloveColor: {r: 0.031446517, g: 0.00651414, b: 0, a: 1}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 1.9999999, g: 1.9999999, b: 1.9999999, a: 1}
+    - _MainColor: {r: 0.12578613, g: 0.056784153, b: 0.00988882, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}
