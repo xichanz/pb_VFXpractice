@@ -93,7 +93,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
-        m_Texture: {fileID: 2800000, guid: b8433d12d4814cf4b880911e0c62cd97, type: 3}
+        m_Texture: {fileID: 2800000, guid: 077ba752fc673bf4ca118acdb71e564e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -271,7 +271,7 @@ Material:
     - _MaskPlusVspeed: 0
     - _MaskTexUVS: 0
     - _Mask_Uspeed: 0
-    - _Mask_Vspeed: 0.73
+    - _Mask_Vspeed: 0.74
     - _Mask_rotat: 0
     - _Mask_scale: 1
     - _Metallic: 0
@@ -329,7 +329,7 @@ Material:
     - _softback: 0
     - _sot_sting_A: 0
     m_Colors:
-    - _AddTexColor: {r: 18.619925, g: 34.073246, b: 54.074306, a: 1}
+    - _AddTexColor: {r: 16.506691, g: 30.20617, b: 47.93725, a: 1}
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
