@@ -26,8 +26,6 @@ Material:
   - _IFDISSOLVECOLOR_ON
   - _MASKALPHARA_ON
   - _MASKPLUSAR_ON
-  - _SOFT_STING_ON
-  - _SOT_STING_A_ON
   - _VTOAR_ON
   - _VTOMASKAR_ON
   m_LightmapFlags: 4
@@ -177,7 +175,7 @@ Material:
     - _CustomdataMaskUV: 0
     - _Cutoff: 0.5
     - _DIssloveFactor: 0.28
-    - _DIssloveSoft: 0.207
+    - _DIssloveSoft: 0.131
     - _DIssloveWide: 0.12
     - _DIssolve_rotat: 0
     - _DepthF: 0
@@ -333,11 +331,11 @@ Material:
     - _AddTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _BackFaceColor: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DIssloveColor: {r: 1, g: 1, b: 1, a: 0}
+    - _DIssloveColor: {r: 21.361254, g: 14.427272, b: 0.06716925, a: 0}
     - _DepthColor: {r: 0, g: 0, b: 0, a: 0}
     - _Dir: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 0.044025064, g: 0.015264456, b: 0.010937037, a: 1}
+    - _MainColor: {r: 0.043137256, g: 0.019984107, b: 0.011764705, a: 1}
     - _MainTexRefine: {r: 1, g: 1, b: 2, a: 0}
     - _TexCenter: {r: 0, g: 0, b: 0, a: 0}
     - _fnl_color: {r: 1, g: 1, b: 1, a: 0}

@@ -167,7 +167,7 @@ Material:
     - _CenterV: 0.5
     - _Comparison: 8
     - _CubemapScale: 0
-    - _Cullmode: 2
+    - _Cullmode: 0
     - _CustomDistort: 0
     - _CustomVAT: 0
     - _CustomdataDis: 1

@@ -250,7 +250,7 @@ Material:
     - _MainTexAC: 0
     - _MainTexUVS: 0
     - _MainTex_Uspeed: 0
-    - _MainTex_Vspeed: -0.5
+    - _MainTex_Vspeed: -1
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
     - _MaintexC: 0
