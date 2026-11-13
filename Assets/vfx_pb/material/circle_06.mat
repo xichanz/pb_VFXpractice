@@ -15,6 +15,7 @@ Material:
   - _FACE_Y
   - _MAINTEXUVS_NORMAL
   m_InvalidKeywords:
+  - _ALPHAADD_ON
   - _CADDTEXUVT_ON
   - _DISSOLVEAR_ON
   - _DISSOLVEPLUSAR_ON
@@ -82,7 +83,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 64fd8252e0e741e49b004b9e303ce87b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 56b396fe00315a64c81b3079a715bf35, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
