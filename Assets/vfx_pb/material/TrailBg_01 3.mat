@@ -49,7 +49,8 @@ Material:
     m_Floats:
     - _DistortTex_Uspeed: 0
     - _MainTex_Uspeed: 0
-    - _MainTex_rotat: 90
+    - _MainTex_Vspeed: 1.37
+    - _MainTex_rotat: 0
     m_Colors:
     - _MainColor: {r: 1.4980392, g: 1.4980392, b: 1.4980392, a: 1}
   m_BuildTextureStacks: []
