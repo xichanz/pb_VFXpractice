@@ -85,7 +85,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 70912a73662a7ee48953f8ba365749f2, type: 3}
-        m_Scale: {x: 6, y: 1}
+        m_Scale: {x: 4, y: 0.8}
         m_Offset: {x: 0, y: 0}
     - _MaskPlusTex:
         m_Texture: {fileID: 0}
@@ -250,7 +250,7 @@ Material:
     - _MainTexAC: 0
     - _MainTexUVS: 0
     - _MainTex_Uspeed: 0
-    - _MainTex_Vspeed: -1
+    - _MainTex_Vspeed: -2
     - _MainTex_ar: 0
     - _MainTex_rotat: 0
     - _MaintexC: 0
